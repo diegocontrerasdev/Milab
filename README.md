@@ -10,7 +10,7 @@
 
 <p align="center">
   <strong>Environmental Monitoring and Data Visualization</strong><br>
-  An lot project designed to monitor environmental conditions through connected sensors.
+  An IoT project designed to monitor environmental conditions through connected sensors.
 </p>
 
 ---
